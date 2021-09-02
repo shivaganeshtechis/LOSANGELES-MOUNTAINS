@@ -1,8 +1,10 @@
 # LOSANGELES-MOUNTAINS WEBSITE
 ```
 This Los-Angeles-Mountain-Website is small project is build using HTML/CSS.
-Check out [LIVE DEMO](https://losangeles-mountains.herokuapp.com/) here!!
+
 ```
+Check out [LIVE DEMO](https://losangeles-mountains.herokuapp.com/) here!!
+
 #Technologies Used
 ```
 * HTML
