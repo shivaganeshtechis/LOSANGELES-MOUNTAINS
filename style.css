@@ -149,14 +149,14 @@ MAIN
 .heading1 {
   font-size: 50px;
   position: absolute;
-  left: 34%;
+  left: 36%;
   top: 17%;
   color: #41516b;
 }
 .dtext {
   position: absolute;
   left: 22%;
-  top: 30%;
+  top: 34%;
   color: #2e2d2d;
 }
 .thumb {
@@ -180,7 +180,7 @@ MAIN
 }
 .number2 {
   position: absolute;
-  left: 15%;
+  left: 12%;
   font-size: 150px;
   bottom: 5%;
   color: rgb(22, 22, 22, 0.3);
@@ -188,14 +188,14 @@ MAIN
 .heading2 {
   font-size: 50px;
   position: absolute;
-  left: 34%;
-  bottom: 25%;
+  left: 36%;
+  bottom: 45%;
   color: #41516b;
 }
 .text2 {
   position: absolute;
-  left: 55%;
-  top: 45%;
+  left: 45%;
+  top: 60%;
   color: #2e2d2d;
 }
 .main3 {
