@@ -1,6 +1,6 @@
-# LOSANGELES-MOUNTAINS WEBSITE
+# LOSANGELES-MOUNTAIN WEBSITE
 ```
-This Los-Angeles-Mountain-Website is small project is build using HTML/CSS.
+This Los-Angeles-Mountain-Website is a small project built using HTML/CSS.
 
 ```
 Check out [LIVE DEMO](https://losangeles-mountains.herokuapp.com/) here!!
