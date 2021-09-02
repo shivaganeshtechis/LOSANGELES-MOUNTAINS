@@ -141,7 +141,7 @@ MAIN
 }
 .number1 {
   position: absolute;
-  left: 20%;
+  left: 15%;
   font-size: 150px;
   top: 10%;
   color: rgb(22, 22, 22, 0.3);
@@ -180,7 +180,7 @@ MAIN
 }
 .number2 {
   position: absolute;
-  left: 20%;
+  left: 15%;
   font-size: 150px;
   bottom: 5%;
   color: rgb(22, 22, 22, 0.3);
@@ -188,13 +188,13 @@ MAIN
 .heading2 {
   font-size: 50px;
   position: absolute;
-  left: 32%;
+  left: 34%;
   bottom: 25%;
   color: #41516b;
 }
 .text2 {
   position: absolute;
-  left: 45%;
+  left: 55%;
   top: 45%;
   color: #2e2d2d;
 }
