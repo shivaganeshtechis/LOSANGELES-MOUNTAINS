@@ -118,7 +118,7 @@ MAIN
 .blackbg {
   position: absolute;
   background-color: rgb(57, 69, 93, 85%);
-  height: 30vh;
+  height: 36vh;
   width: 100vw;
   bottom: 0px;
   z-index: 1;
