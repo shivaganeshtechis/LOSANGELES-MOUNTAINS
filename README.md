@@ -5,7 +5,7 @@ This Los-Angeles-Mountain-Website is small project is build using HTML/CSS.
 ```
 Check out [LIVE DEMO](https://losangeles-mountains.herokuapp.com/) here!!
 
-##Technologies Used
+## Technologies Used
 ```
 * HTML
 * CSS
@@ -13,7 +13,7 @@ Check out [LIVE DEMO](https://losangeles-mountains.herokuapp.com/) here!!
 * JSON
 
 ```
-##INSTALLATION
+## INSTALLATION
 ```
 No installation required to load the files just open index.html and done
 
