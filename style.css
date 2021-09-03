@@ -141,22 +141,22 @@ MAIN
 }
 .number1 {
   position: absolute;
-  left: 15%;
+  left: 8%;
   font-size: 150px;
   top: 10%;
   color: rgb(22, 22, 22, 0.3);
 }
 .heading1 {
-  font-size: 50px;
+  font-size: 5vw;
   position: absolute;
-  left: 36%;
-  top: 17%;
+  left: 26vw;
+  top: 16%;
   color: #41516b;
 }
 .dtext {
   position: absolute;
-  left: 22%;
-  top: 34%;
+  left: 20vw;
+  top: 29%;
   color: #2e2d2d;
 }
 .thumb {
@@ -167,8 +167,8 @@ MAIN
   justify-content: center;
 }
 .thumb img {
-  /* padding: 2px; */
-  width: 100%;
+  padding: 10px;
+  /* width: 100%; */
   /* height: 150px;
   width: 200px; */
 }
@@ -178,25 +178,29 @@ MAIN
 .header3 {
   position: relative;
   height: 30vh;
+  /* width: fit-content; */
 }
 .number2 {
   position: absolute;
-  left: 12%;
+  left: 8vw;
   font-size: 150px;
   bottom: 5%;
+  /* width: fit-content; */
   color: rgb(22, 22, 22, 0.3);
 }
 .heading2 {
-  font-size: 50px;
+  font-size: 5vw;
   position: absolute;
-  left: 36%;
-  bottom: 45%;
+  left: 26vw;
+  bottom: 40%;
+  /* width: fit-content; */
   color: #41516b;
 }
 .text2 {
   position: absolute;
-  left: 45%;
-  top: 60%;
+  left: 44%;
+  top: 40%;
+  /* width: fit-content; */
   color: #2e2d2d;
 }
 .main3 {
@@ -255,4 +259,37 @@ MAIN
 }
 .main3 td {
   padding: 10px;
+}
+@media only screen and (max-width: 600px) {
+  .heading1 {
+    font-size: 11vw;
+    left: 51%;
+    top: 17%;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .number2 {
+    left: 0%;
+    top: 0%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .heading2 {
+    font-size: 13vw;
+    left: 46%;
+    bottom: 50%;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .text2 {
+    left: 21%;
+    top: 58%;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .thumb img {
+    width: 100%;
+    padding: 0%;
+  }
 }
